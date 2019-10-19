@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [阿里面试题：打印 N*N顺时针螺旋数组](https://www.weiquding.com/articles/2019/10/18/1571403139604.html)
+* [阿里面试题：由逗号分隔的字符串，如“北京,吉林,吉林,北京”， 输入一个匹配模式（简单的以字符来写）,来判断该字符串是否符合该模式](https://www.weiquding.com/articles/2019/10/18/1571394076901.html)
+* [阿里面试题：实现3个线程交替打印1，2，3，4,...,99](https://www.weiquding.com/articles/2019/10/18/1571391828859.html)
 * [我在 GitHub 上的开源项目](https://www.weiquding.com/my-github-repos)
 
 
