@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [算法： 动态规划](https://www.weiquding.com/articles/2019/10/22/1571755199088.html)
 * [算法：迭代、递归、分治](https://www.weiquding.com/articles/2019/10/21/1571622995058.html)
 * [阿里面试题：打印 N*N顺时针螺旋数组](https://www.weiquding.com/articles/2019/10/18/1571403139604.html)
 * [阿里面试题：由逗号分隔的字符串，如“北京,吉林,吉林,北京”， 输入一个匹配模式（简单的以字符来写）,来判断该字符串是否符合该模式](https://www.weiquding.com/articles/2019/10/18/1571394076901.html)
