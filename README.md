@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [译文：JMH的概述](https://www.weiquding.com/articles/2019/10/30/1572449109376.html)
 * [java.net.SocketException：Connection reset 原因分析与故障重现](https://www.weiquding.com/articles/2019/10/28/1572277638230.html)
 * [算法： 动态规划](https://www.weiquding.com/articles/2019/10/22/1571755199088.html)
 * [算法：迭代、递归、分治](https://www.weiquding.com/articles/2019/10/21/1571622995058.html)
