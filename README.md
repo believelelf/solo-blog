@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [项目管理：Jira工作流设计](https://www.weiquding.com/articles/2019/11/07/1573132732153.html)
+* [问题排查：使用pdfbox将pdf转image时STSong-Light字体中文乱码](https://www.weiquding.com/articles/2019/11/07/1573129637768.html)
 * [译文：JMH示例（1-13）](https://www.weiquding.com/articles/2019/11/03/1572759573750.html)
 * [译文：JMH的概述](https://www.weiquding.com/articles/2019/10/30/1572449109376.html)
 * [java.net.SocketException：Connection reset 原因分析与故障重现](https://www.weiquding.com/articles/2019/10/28/1572277638230.html)
