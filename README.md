@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [密码：参考TLS握手协议实现移动支付密码的一次一密加解密方案](https://www.weiquding.com/articles/2019/11/15/1573833373356.html)
 * [数据结构：向量](https://www.weiquding.com/articles/2019/11/10/1573318506848.html)
 * [算法：常见排序算法实现及其复杂度对比](https://www.weiquding.com/articles/2019/11/08/1573224609440.html)
 * [项目管理：Jira工作流设计](https://www.weiquding.com/articles/2019/11/07/1573132732153.html)
